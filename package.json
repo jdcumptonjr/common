@@ -98,7 +98,7 @@
     "mime": ">=2.5.2",
     "moment": ">=2.29.1",
     "object-hash": ">=2.2.0",
-    "parse-json": ">=5.2.0",
+    "parse-json": "5.2.0",
     "randomcolor": ">=0.6.2",
     "statuses": ">=2.0.1",
     "string-template": ">=1.0.0",
